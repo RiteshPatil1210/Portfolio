@@ -20,7 +20,7 @@ function Homepage() {
             And i'm a Web Developer 🎓 I am a passionate and dedicated 3rd-year MSBTE diploma student in Information Technology.
             💻 Skilled in HTML, CSS, Java, C, and C++, I enjoy building responsive websites and solving real-world coding problems.
             🚀 I have hands-on experience in developing basic projects and continuously strive to learn new technologies.
-            🌱 Currently exploring backend development and database integration to enhance my full-stack skills..rrrrrrrrrrrrrrr
+            🌱 Currently exploring backend development and database integration to enhance my full-stack skills..
           </p>
 
           <div className='flex mt-6 gap-x-4 justify-center md:justify-start'>
